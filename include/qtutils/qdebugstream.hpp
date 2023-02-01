@@ -4,7 +4,7 @@
 #include <iostream>
 #include <streambuf>
 #include <string>
-#include <ers/ers.h>
+#include "ers/ers.hpp"
 #include <QTextEdit>
 #include <QMutexLocker>
 #include <QMutex>

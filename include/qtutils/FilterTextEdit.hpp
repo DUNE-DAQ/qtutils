@@ -6,7 +6,7 @@
  */
 #include <QTextEdit>
 #include <QRegExp>
-#include <ers/ers.h>
+#include "ers/ers.hpp"
 namespace daq {
 namespace QTUtils {
 

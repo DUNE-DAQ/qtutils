@@ -1,4 +1,4 @@
-#include "QTUtils/highlighter.h"
+#include "qtutils/highlighter.hpp"
 #include <QtGui>
 #include <QMutexLocker>
 

@@ -1,4 +1,4 @@
-#include "QTUtils/qdebugstream.h"
+#include "qtutils/qdebugstream.hpp"
 #include "streambuf"
 using namespace daq::QTUtils;
 std::streamsize QDebugStream::xsputn(const char *p, std::streamsize n) {
