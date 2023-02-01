@@ -1,0 +1,3 @@
+$(bin)${NAME}.moc.cpp :: ${FULLNAME}
+	$(QTDIR)/bin/moc ${FULLNAME} -o $(bin)${NAME}.moc.cpp
+

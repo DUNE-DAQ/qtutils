@@ -1,0 +1,9 @@
+#-- start of moc_header ------
+
+${CONSTITUENT}_output = $(bin)
+
+${CONSTITUENT} :: ${OBJS}
+	@/bin/echo "------> ${CONSTITUENT} ok"
+
+#-- end of moc_header ------
+
